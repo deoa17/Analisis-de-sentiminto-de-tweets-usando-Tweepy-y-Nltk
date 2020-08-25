@@ -1,4 +1,4 @@
-# Analisis-de-sentimeinto
+# Análisis-de-sentimeinto de tweets usando Tweepy y Nltk
 Mediante la API de tweepy vamos a bajar los tweets sobre algún tema usando los hashtags, usaremos NLP para limpiar los tweets y sacaremos una  wordcloud para ver graficamente las palabras que se repiten mas y por ultimo vamos a realizar un análisis de sentimiento usando TextBlob
 
 ## 1. Autenticación en Tweepy
