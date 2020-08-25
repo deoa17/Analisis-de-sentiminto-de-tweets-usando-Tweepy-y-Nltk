@@ -16,7 +16,7 @@ Vamos a realizar una limpieza de los tweets usando nltk y expresiones regualres
 ## 5. Graficamos una Word Cloud
 Creamos una grafica para ver las palabras mas usadas, Ejemplo: #Apple
 
-![alt text]
+![alt text](https://github.com/deoa17/Analisis-de-sentimeinto/blob/master/WordCloud.png)
 
 ## 6. Analisis de sentimiento de los tweets extraidos
 Con ayuda de la libreria TextBlob realizaremos el analisis de sentimiento de los tweets extraidos
